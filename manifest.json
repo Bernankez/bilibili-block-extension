@@ -1,0 +1,15 @@
+{
+  "name": "Bilibili noisy part blocker",
+  "version": "0.1.0",
+  "manifest_version": 3,
+  "description": "Block noisy parts on Bilibili",
+  "icons": {
+    "16": "icons/bilibili-blocker-16x16.png",
+    "32": "icons/bilibili-blocker-32x32.png",
+    "48": "icons/bilibili-blocker-48x48.png",
+    "128": "icons/bilibili-blocker-128x128.png"
+  },
+  "action": {
+    "default_popup": "popup/popup.html"
+  }
+}
